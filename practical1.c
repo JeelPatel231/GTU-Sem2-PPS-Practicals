@@ -3,6 +3,7 @@ Copyright (c) 2021 Jeel
 This code is made by @jeelpatel231 on github and you shall only use this code under the compliance of license
 */
 
+// functioning calculator in c
 
 #include <stdio.h>
 #include <stdlib.h>

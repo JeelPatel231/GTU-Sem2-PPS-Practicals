@@ -3,6 +3,8 @@ Copyright (c) 2021 Jeel
 This code is made by @jeelpatel231 on github and you shall only use this code under the compliance of license
 */
 
+// calculate simple interest
+
 #include <stdio.h>
 
 int main(){
